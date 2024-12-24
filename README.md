@@ -394,6 +394,7 @@ N/A
 Response A is about the same as Response B. Both responses effectively analyze the title “Kingdom of Ruin and Redemption,” highlighting its thematic contrasts and potential appeal to the fantasy genre. Response A excels in presenting emotional and narrative resonances, while Response B adds further depth by analyzing the title’s target audience and genre alignment. Their strengths balance out, making them equally effective overall.
 ```
 
-### Primary Dimension for Ranking Decision: Relevance.
+### Primary Dimension for Ranking Decision:
+No aplica
 
 ---
